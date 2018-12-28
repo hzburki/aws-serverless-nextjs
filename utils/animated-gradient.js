@@ -13,6 +13,12 @@ if (typeof document !== 'undefined'){
         { start: [84,85,84], stop: [227,140,182] }
     ];
 
+    // var gradients = [
+    //     { start: [245,252,255], stop: [240,236,244] },
+    //     { start: [232,206,222], stop: [220,221,220] },
+    //     { start: [249,232,240], stop: [220,221,220] }
+    // ];
+
     // how long for each transition
     var transition_time = 3;
 
